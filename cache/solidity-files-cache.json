@@ -1,0 +1,44 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/tylersehr/Downloads/0xCF205808Ed36593aa40a44F10c7f7C2F67d4A4d4-FriendtechSharesV1/contracts/FriendtechSharesV1.sol": {
+      "lastModificationDate": 1705702816062,
+      "contentHash": "37075e0b015df030b9d8a2f22cb437b0",
+      "sourceName": "contracts/FriendtechSharesV1.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "Context",
+        "FriendtechSharesV1",
+        "Ownable"
+      ]
+    }
+  }
+}
